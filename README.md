@@ -30,7 +30,7 @@
 
 - **McDonald's, Aubenas**
   - *Employé*
-  - *Été 20XX*
+  - *Été 2023*
   - Pendant deux mois, j'ai travaillé chez McDonald's, où j'ai développé des compétences en gestion du temps, en travail d'équipe et en service à la clientèle.
 
 ---
